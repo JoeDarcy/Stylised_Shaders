@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/joedarcy/Documents/GitHub/Stylised_Shaders/Stylised_Shaders/Content/StarterContent/Architecture/Wall_Door_400x400.uasset",
+				"/Users/joedarcy/Documents/GitHub/Stylised_Shaders/Stylised_Shaders/Content/StarterContent/Maps/Minimal_Default.umap",
+				"/Users/joedarcy/Documents/GitHub/Stylised_Shaders/Stylised_Shaders/Content/StylizedMaterials/StaticMeshMaterials/M_Engraving.uasset",
+				"/Users/joedarcy/Documents/GitHub/Stylised_Shaders/Stylised_Shaders/Content/StylizedMaterials/StaticMeshMaterials/M_Sketching.uasset"
+			]
+		}
+	]
+}
